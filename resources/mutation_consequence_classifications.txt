@@ -1,0 +1,130 @@
+#consequence	classification	source
+De_novo_Start_InFrame	aa_sub	CCLE
+In_Frame_Del	aa_sub	CCLE
+In_Frame_Ins	aa_sub	CCLE
+Missense_Mutation	aa_sub	CCLE
+Nonstop_Mutation	aa_sub	CCLE
+Stop_Codon_DNP	aa_sub	CCLE
+Stop_Codon_Ins	aa_sub	CCLE
+3'UTR	none	CCLE
+5'Flank	none	CCLE
+5'UTR	none	CCLE
+Intron	none	CCLE
+Silent	none	CCLE
+De_novo_Start_OutOfFrame	trunc	CCLE
+Frame_Shift_Del	trunc	CCLE
+Frame_Shift_Ins	trunc	CCLE
+Nonsense_Mutation	trunc	CCLE
+Splice_Site_Del	trunc	CCLE
+Splice_Site_DNP	trunc	CCLE
+Splice_Site_Ins	trunc	CCLE
+Splice_Site_SNP	trunc	CCLE
+Start_Codon_Del	trunc	CCLE
+Complex - deletion inframe	aa_sub	COSMIC
+Complex - insertion inframe	aa_sub	COSMIC
+Deletion - In frame	aa_sub	COSMIC
+Insertion - In frame	aa_sub	COSMIC
+Substitution - Missense	aa_sub	COSMIC
+Nonstop extension	aa_sub	COSMIC
+Complex - frameshift	trunc	COSMIC
+Deletion - Frameshift	trunc	COSMIC
+Insertion - Frameshift	trunc	COSMIC
+No detectable mRNA/protein	trunc	COSMIC
+Substitution - Nonsense	trunc	COSMIC
+Substitution - coding silent	unknown	COSMIC
+Unknown	unknown	COSMIC
+aa_sub	aa_sub	ICR_OVCA
+mirna	mirna	ICR_OVCA
+non_coding	non_coding	ICR_OVCA
+silent	silent	ICR_OVCA
+trunc	trunc	ICR_OVCA
+unknown	unknown	ICR_OVCA
+initiator_codon_variant	aa_sub	BIANKIN_PANC
+initiator_codon_variant,splice_region_variant	aa_sub	BIANKIN_PANC
+missense_variant	aa_sub	BIANKIN_PANC
+missense_variant,NMD_transcript_variant	aa_sub	BIANKIN_PANC
+missense_variant,splice_region_variant	aa_sub	BIANKIN_PANC
+missense_variant,splice_region_variant,NMD_transcript_variant	aa_sub	BIANKIN_PANC
+splice_acceptor_variant	trunc	BIANKIN_PANC
+splice_acceptor_variant,nc_transcript_variant	trunc	BIANKIN_PANC
+splice_acceptor_variant,NMD_transcript_variant	trunc	BIANKIN_PANC
+splice_donor_variant	trunc	BIANKIN_PANC
+splice_donor_variant,nc_transcript_variant	trunc	BIANKIN_PANC
+splice_donor_variant,NMD_transcript_variant	trunc	BIANKIN_PANC
+splice_donor_variant,non_coding_exon_variant,nc_transcript_variant	trunc	BIANKIN_PANC
+stop_gained	trunc	BIANKIN_PANC
+stop_gained,NMD_transcript_variant	trunc	BIANKIN_PANC
+stop_gained,splice_region_variant	trunc	BIANKIN_PANC
+stop_gained,splice_region_variant,NMD_transcript_variant	trunc	BIANKIN_PANC
+stop_lost	aa_sub	BIANKIN_PANC
+3_prime_UTR_variant	non_coding	BIANKIN_PANC
+3_prime_UTR_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+5_prime_UTR_variant	non_coding	BIANKIN_PANC
+5_prime_UTR_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+coding_sequence_variant	non_coding	BIANKIN_PANC
+downstream_gene_variant	non_coding	BIANKIN_PANC
+incomplete_terminal_codon_variant,coding_sequence_variant	non_coding	BIANKIN_PANC
+intergenic_variant	non_coding	BIANKIN_PANC
+intron_variant	non_coding	BIANKIN_PANC
+intron_variant,nc_transcript_variant	non_coding	BIANKIN_PANC
+intron_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+non_coding_exon_variant,nc_transcript_variant	non_coding	BIANKIN_PANC
+regulatory_region_variant	non_coding	BIANKIN_PANC
+splice_region_variant,3_prime_UTR_variant	non_coding	BIANKIN_PANC
+splice_region_variant,3_prime_UTR_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+splice_region_variant,5_prime_UTR_variant	non_coding	BIANKIN_PANC
+splice_region_variant,5_prime_UTR_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+splice_region_variant,intron_variant	non_coding	BIANKIN_PANC
+splice_region_variant,intron_variant,nc_transcript_variant	non_coding	BIANKIN_PANC
+splice_region_variant,intron_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+splice_region_variant,non_coding_exon_variant,nc_transcript_variant	non_coding	BIANKIN_PANC
+splice_region_variant,synonymous_variant	non_coding	BIANKIN_PANC
+splice_region_variant,synonymous_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+synonymous_variant	non_coding	BIANKIN_PANC
+synonymous_variant,NMD_transcript_variant	non_coding	BIANKIN_PANC
+TF_binding_site_variant	non_coding	BIANKIN_PANC
+upstream_gene_variant	non_coding	BIANKIN_PANC
+Complex - deletion inframe	aa_sub	WTSI
+Complex - frameshift	trunc	WTSI
+Complex - insertion inframe	aa_sub	WTSI
+Deletion - Frameshift	trunc	WTSI
+Deletion - In frame	aa_sub	WTSI
+Essential Splice	trunc	WTSI
+Gene Fusion	unknown	WTSI
+Genomic Amplification	amplification	WTSI
+Homozygous Deletion	deletion	WTSI
+Insertion - Frameshift	trunc	WTSI
+Insertion - In frame	aa_sub	WTSI
+microRNA - Deletion	unknown	WTSI
+microRNA - Insertion	unknown	WTSI
+microRNA - Substitution	unknown	WTSI
+Nonstop extension	aa_sub	WTSI
+Substitution - coding silent	non_coding	WTSI
+Substitution - Missense	aa_sub	WTSI
+Substitution - Nonsense	trunc	WTSI
+Unknown	unknown	WTSI
+complex sub	aa_sub	ICR_BONE
+downstream	non_coding	ICR_BONE
+ess splice	trunc	ICR_BONE
+frameshift	trunc	ICR_BONE
+inframe	aa_sub	ICR_BONE
+inframe_deletion	aa_sub	ICR_BONE
+inframe_insertion	aa_sub	ICR_BONE
+intergenic	non_coding	ICR_BONE
+intronic	non_coding	ICR_BONE
+missense	aa_sub	ICR_BONE
+nonsense	trunc	ICR_BONE
+silent	non_coding	ICR_BONE
+start-lost	aa_sub	ICR_BONE
+stop_lost	aa_sub	ICR_BONE
+stop-lost	aa_sub	ICR_BONE
+unknown	non_coding	ICR_BONE
+upstream	non_coding	ICR_BONE
+Frame_Shift_Del	trunc	Biankin_Aug_2015
+Frame_Shift_Ins	trunc	Biankin_Aug_2015
+In_Frame_Del	aa_sub	Biankin_Aug_2015
+Missense_Mutation	aa_sub	Biankin_Aug_2015
+Nonsense_Mutation	trunc	Biankin_Aug_2015
+Nonstop_Mutation	aa_sub	Biankin_Aug_2015
+Silent	non_coding	Biankin_Aug_2015
+Splice_Site	trunc	Biankin_Aug_2015
